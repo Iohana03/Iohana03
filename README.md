@@ -1,9 +1,7 @@
 <h1 align="center">Olá, visitante! 👋</h1>
 
 
-<p align="center">
-  <img src="https://tenor.com/pt-BR/view/scaler-create-impact-any-key-programmer-coding-gif-25012205" width="400">
-</p>
+<div class="tenor-gif-embed" data-postid="25012205" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-any-key-programmer-coding-gif-25012205">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center">
 💻 Desenvolvedora em Formação 
 </p>
@@ -11,7 +9,7 @@
 <p align="center">
   Me chamo <strong>Iohana</strong>, tenho 20 anos e sou formada no curso Técnico em Desenvolvimento de Sistemas.
 </p>
----
+
 
 ## 🌟 Sobre mim
 
@@ -20,7 +18,7 @@
 🚀 Em busca da primeira oportunidade na área de TI  
 🤝 Comunicativa, dedicada e com facilidade para aprender  
 
----
+
 ## 🛠 Tecnologias que estudo
 
 <div style="display: inline_block"><br>
