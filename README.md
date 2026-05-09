@@ -1,7 +1,7 @@
 <h1 align="center">Olá, visitante! 👋</h1>
 
 <p align="center">
-  <img src="imagem_2026-05-09_181302958.png" width="400">
+  <img src="scaler-create-impact.gif" width="400">
 </p>
 
 <p align="center">
