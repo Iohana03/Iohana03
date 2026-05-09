@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400">
+  <img src="https://tenor.com/pt-BR/view/scaler-create-impact-any-key-programmer-coding-gif-25012205" width="400">
 </p>
 <p align="center">
 💻 Desenvolvedora em Formação 
@@ -39,7 +39,7 @@
   <img align="center" alt="Java" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-     <img align="center" alt="Csharp" height="40" width="50"
+  <img align="center" alt="Csharp" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 
