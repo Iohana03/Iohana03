@@ -1,6 +1,8 @@
 <h1 align="center">Olá, visitante! 👋</h1>
 
-p align="center"> <img src="https://tenor.com/bQ6YP.gif" width="400"> </p>
+<p align="center">
+  <img src="imagem_2026-05-09_181302958.png" width="400">
+</p>
 
 <p align="center">
 💻 Desenvolvedora em Formação 
